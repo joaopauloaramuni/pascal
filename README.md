@@ -1,2 +1,2 @@
-# pascal
-Repo pascal
+# Pascal
+Repo Pascal
